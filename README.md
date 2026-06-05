@@ -3,8 +3,6 @@
 **Mô tả ngắn:**
 Trang portfolio thời trang tối màu, tập trung vào bố cục lớn, hình ảnh nổi bật và accent màu lime.
 
-![Preview](https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1000&auto=format&fit=crop)
-
 **Tính năng chính**
 
 - Giao diện tối (dark) với accent màu lime
