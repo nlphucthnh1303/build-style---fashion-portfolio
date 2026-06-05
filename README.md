@@ -2,12 +2,16 @@
 
 ![Build.Style Banner](public/favicon.ico)
 
+<<<<<<< HEAD
 [![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-^6.2.0-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-~5.8.2-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![lucide-react](https://img.shields.io/badge/lucide--react-0.554.0-111827?style=flat-square)](https://lucide.dev/)
 
 **Build.Style** là một trang portfolio thời trang hiện đại, thiết kế tối (dark) với accent màu lime, tập trung vào hình ảnh lớn, bố cục không gian rộng và trải nghiệm tương tác mượt.
+=======
+**Tính năng chính**
+>>>>>>> 045558a8f07051b533f075313e44a7c2b2b884c0
 
 ---
 
